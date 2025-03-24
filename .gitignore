@@ -1,12 +1,19 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+
+# Envs & Secrets
 .env
+.env.*
+.venv/
+
+# IDEs
+.vscode/
+.idea/
 
 # Docker
-*.log
+*.pid
 docker-compose.override.yml
-
-# OS
-.DS_Store
-Thumbs.db
