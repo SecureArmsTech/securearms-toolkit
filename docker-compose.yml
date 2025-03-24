@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  toolkit:
+    build: .
+    volumes:
+      - .:/app
+    command: ["bash"]
