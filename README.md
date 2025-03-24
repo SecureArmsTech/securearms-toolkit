@@ -1,3 +1,9 @@
+![GitHub license](https://img.shields.io/github/license/SecureArmsTech/securearms-toolkit)
+![Last commit](https://img.shields.io/github/last-commit/SecureArmsTech/securearms-toolkit)
+![Repo size](https://img.shields.io/github/repo-size/SecureArmsTech/securearms-toolkit)
+![Issues](https://img.shields.io/github/issues/SecureArmsTech/securearms-toolkit)
+
+
 # SecureArms Toolkit v0.1
 
 A peer-to-peer, CLI-first payment toolkit built for **Second Amendment-aligned businesses**, **freedom-respecting users**, and **resilient off-grid communities**.
